@@ -31,6 +31,9 @@ Add a new column named 'total_bedroom_size' based on specified conditions.
 ## Tools Used:-
 Jupyter Notebook
 
+## Usage :
+Clone the repository: Git clone :- https://github.com/RavinaKarnik/Housing-Analysis-using-Matplotlib
+
 ## Linkedln post :- 
 https://www.linkedin.com/posts/ravina-karnik_dataanalysis-pandas-python-activity-7097880771830427648-pqz0?utm_source=share&utm_medium=member_desktop
 
