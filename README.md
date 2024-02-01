@@ -1,4 +1,4 @@
-# Housing-Analysis-using-Matplotlib
+# Housing-Price-Analysis-using-Matplotlib
 ## Project Objectives:
 1. Average Median Income and Data Distribution:
 Calculate the average median income of the dataset.
